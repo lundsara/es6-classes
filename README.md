@@ -1,9 +1,5 @@
 # Inheritance Practice
 
-```bash
-$ git clone git@github.com:ga-wdi-exercises/es6-classes-inheritance-practice.git
-```
-
 ## Create a `User` class.
 
 It should have the following properties...
@@ -24,8 +20,6 @@ It should also have the following methods...
 * `overridePassword`, which should take another user and a new password as an argument. When executed, this method changes the password for the passed-in user.
 
 ## Bonus I
-
-> Try implementing a class feature we won't be covering in class.
 
 Create a "getter" and "setter" methods for retrieving and updating a user's `username`.
 
